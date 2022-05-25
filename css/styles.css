@@ -1,4 +1,13 @@
 h1 {
-  color: #114405;
+  color: #3a17d6;
   text-align: center;
+}
+p.dogname {
+  text-align:center
+}
+div.center{
+  text-align:center
+}
+.highlight {
+  color:blueviolet
 }
