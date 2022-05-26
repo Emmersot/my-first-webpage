@@ -26,4 +26,4 @@ Showcases all of my pets with different images and links to there own webpages.
 
 ## License
 
-[Copyright] (Tyler Emmerson and Liam Campbell)
+<p>[Copyright]<a href="LICENSE.txt">MIT</a></p>
