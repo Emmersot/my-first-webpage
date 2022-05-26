@@ -1,12 +1,13 @@
 # All of My Pets
 By Tyler Emmerson & Liam Campell
-A simple html website
+####A simple html website
 
-## Technologies Used
+##Technologies Used
 
 * HTML
 * Markdown
 * CSS
+*
 
 ## Description
 
@@ -21,7 +22,7 @@ This is all of my pets
 ## Known Bugs
 
 * none
-*
 
 ## License
-[Copyright] (https://en.wikipedia.org/wiki/MIT_License)
+
+[Copyright] (Tyler Emmerson and Liam Campbell)
