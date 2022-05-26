@@ -1,18 +1,19 @@
 # All of My Pets
 By Tyler Emmerson & Liam Campell
-####A simple html website
+
 
 ##Technologies Used
 
 * HTML
 * Markdown
 * CSS
-*
+* Git Bash
+* GitHub
 
 ## Description
 
-This is all of my pets
-! [An image of my pets] (img/Apollo1.jpg)
+Showcases all of my pets with different images and links to there own webpages.
+[comment]: # ![An image of my pets] (img/Apollo1.jpg)
 ## Setup/Installation Requirements
 
 1. Clone this repository to your desktop.
