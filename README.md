@@ -13,7 +13,7 @@ By Tyler Emmerson & Liam Campell
 ## Description
 
 Showcases all of my pets with different images and links to there own webpages.
-[comment]: # ![An image of my pets] (img/Apollo1.jpg)
+![An image of my pets] (img/Apollo1.jpg)
 ## Setup/Installation Requirements
 
 1. Clone this repository to your desktop.
