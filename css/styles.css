@@ -7,12 +7,12 @@ p.dogname {
 }
 div.center {
   text-align:center;
-  width: 30%;
+  width: 100%;
   float: center;
-  background-color: rgba(107, 149, 160, 0.432);
+  background-color: rgba(30, 120, 143, 0.884);
 }
 .highlight {
-  color:blueviolet
+  color:rgb(239, 234, 243)
 }
 img {
   float:center;
