@@ -1,5 +1,5 @@
 # All of My Pets
-By Tyler Emmerson & Liam Campell
+By Tyler Emmerson & Liam Campbell
 
 
 ## Technologies Used
@@ -25,5 +25,5 @@ Showcases all of my pets with different images and links to there own webpages.
 * none
 
 ## License
-
-<p>[Copyright]<a href="LICENSE.txt">MIT</a></p>
+<p><a href="LICENSE.txt">MIT</a></p>
+Copyright(c) 2022 Tyler Emmerson and Liam Campbell
