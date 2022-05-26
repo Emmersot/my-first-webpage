@@ -2,7 +2,7 @@
 By Tyler Emmerson & Liam Campell
 
 
-##Technologies Used
+## Technologies Used
 
 * HTML
 * Markdown
