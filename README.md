@@ -9,6 +9,7 @@ By Tyler Emmerson & Liam Campbell
 * CSS
 * Git Bash
 * GitHub
+* Bootstrap
 
 ## Description
 
