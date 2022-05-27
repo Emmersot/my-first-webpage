@@ -2,14 +2,13 @@ h1 {
   color: #3a17d6;
   text-align: center;
 }
-p.dogname {
+div.name p {
   text-align:center
 }
 div.center {
   text-align:center;
   width: 100%;
   float: center;
-  background-color: rgba(30, 120, 143, 0.884);
 }
 .highlight {
   color:rgb(239, 234, 243)
@@ -17,3 +16,48 @@ div.center {
 img {
   float:center;
 }
+body {
+  background-color: rgba(140, 174, 179, 0.726);
+}
+
+.rainbow-letters {
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.rainbow-letters span:nth-child(10n + 1) {
+  color: #ef5350;
+}
+
+.rainbow-letters span:nth-child(10n + 1) {
+  color: #ef5350;
+}
+
+.rainbow-letters span:nth-child(10n + 2) {
+  color: #ab47bc;
+}
+
+.rainbow-letters span:nth-child(10n + 3){
+  color: #651fff;
+}
+
+.rainbow-letters span:nth-child(10n + 5){
+  color: #3949ab;
+}
+
+.rainbow-letters span:nth-child(10n + 4) {
+  color: #2196f3;
+}
+
+.rainbow-letters span:nth-child(10n + 6){
+  color: #00bcd4;
+}
+
+.rainbow-letters span:nth-child(10n + 7){
+  color: #4caf50;
+}
+
+.rainbow-letters span:nth-child(10n + 8){
+  color: #ffc107;
+}
+  
