@@ -1,3 +1,13 @@
+.dark-background {
+  background-color: black;
+  color: dimgray;
+}
+
+.light-background {
+  background-color:rgba(162, 166, 167, 0.479)
+  color rgb(239, 234, 243)
+}
+
 h1 {
   color: #3a17d6;
   text-align: center;
@@ -79,3 +89,4 @@ ul {
   color: #ffc107;
 }
   
+
